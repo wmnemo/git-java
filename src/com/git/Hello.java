@@ -16,5 +16,8 @@ public class Hello {
 		System.out.println("master22");
 		
 		System.out.println("idea");
+		System.out.println("issueV1");
+		System.out.println("issueV2");
+		System.out.println("issueV2");
 	}
 }
